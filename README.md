@@ -26,7 +26,3 @@ Please ensure you follow good coding practices and provide helpful explanations.
 ## Getting Started
 
 To clone this repository to your local machine:
-
-```sh
-git clone https://github.com/your-username/Leetcode-problems.git
-```
